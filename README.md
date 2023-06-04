@@ -51,19 +51,19 @@ Initial release of Smart Contract Auditor
 
 ## Develop Log
 
-23-05-13
+23-06-02
 
 1. Sidebar panel UI and button features
 2. Integration with FastAPI python backend
 3. Error checking for code 
 
-23-05-14
+23-06-03
 
 1. Add Check Gas function to sidebar
 2. Apply AI results from sidebar to vscode window
 3. Add Test Code Generator to sidebar
 
-23-05-15
+23-06-04
 
 1. Split editor and add updated code in virtual window, also highlight green and red for removed and added parts
 2. Refine UI/UX for sidebar
