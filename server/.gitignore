@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.py[cod]
+*.egg-info
+venv
+.ruff_cache
+app/data/*
