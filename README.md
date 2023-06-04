@@ -20,7 +20,7 @@ cd server
 uvicorn main:app --reload
 ```
 
-Also make sure that you create a .env file using `touch .env` that holds your `OPENAI_API_KEY = ` to run the backend files.
+Also make sure that you create a .env file using `touch .env` that holds your `OPENAI_API_KEY = ` to run the backend files. Or you could simply copy and paste the existing `.env.example` file into `.env`.
 
 ## Features
 
