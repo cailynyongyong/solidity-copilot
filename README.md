@@ -72,6 +72,6 @@ Initial release of Smart Contract Auditor
 ## TODO
 
 - [x] Error Handling: 1) is solidity 2) has test code 3) hardhat setting(gas reporter)
-- [ ] UI update
-- [ ] Prompt Engineering: JSON output/parsing, better prompt
+- [x] UI update
+- [x] Prompt Engineering: JSON output/parsing, better prompt
 
