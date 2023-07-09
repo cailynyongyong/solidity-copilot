@@ -1,6 +1,7 @@
 # smart-contract-auditor README
 
-This is the README for your extension "smart-contract-auditor".
+[Solidity Copilot](https://devfolio.co/projects/solidity-copilot-e15f) won #1st prize for the 2023 ETH Seoul hackathon for the Impact Application round. 
+
 
 ## To Run the Code
 
